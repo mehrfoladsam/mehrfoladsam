@@ -111,8 +111,8 @@
     <div class="products">
       <div class="product">میلگرد آجدار</div>
       <div class="product">میلگرد ساده</div>
-      <div class="product">ذوب‌آهن اصفهان</div>
-      <div class="product">میانه، نیشابور، بناب</div>
+      <div class="product">نیشابور اصفهان</div>
+      <div class="product"> ابهر هیربد پردیس</div>
     </div>
   </section>
 
